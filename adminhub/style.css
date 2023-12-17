@@ -46,6 +46,29 @@ body {
 	overflow-x: hidden;
 }
 
+.n1{
+	background-color: #3C91E6;
+	border-radius: 10px;
+	padding: 5px 10px ;
+}
+.n2{
+	background-color: #DB504A;
+	border-radius: 10px;
+	padding: 5px 10px ;
+}
+
+.n3{
+	background-color: #FFCE26;
+	border-radius: 10px;
+	padding: 5px 10px ;
+}
+
+.n4{
+	background-color: chartreuse;
+	border-radius: 10px;
+	padding: 5px 10px ;
+}
+
 
 
 
